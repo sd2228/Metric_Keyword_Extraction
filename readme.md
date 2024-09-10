@@ -42,18 +42,10 @@ Main components:
                 - Label Ranking Average Precision (LRAP): Measures the precision of ranked labels.
                 - Histograms and Visualizations: Plots histograms and cumulative distribution functions for the calculated metrics, saving the plots as PDF files for further analysis.
                 
-      *** Combines results from various similarity and correlation analyses into a single DataFrame.
+      8. Combines results from various similarity and correlation analyses into a single DataFrame.
       Generates and saves visualizations comparing different methods in terms of similarity metrics and ranking quality.
 
 * `yake_rake_extraction.ipynb` : this script performs keyword extraction on textual data by leveraging YAKE and RAKE.
-
-### Data used
-
-
-
-### Reproducibility
-
-
 
 ### License
 
