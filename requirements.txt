@@ -1,0 +1,6 @@
+pandas
+keybert
+tqdm
+numpy
+regex
+time
