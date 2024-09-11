@@ -9,6 +9,7 @@
 We run our code on Mac M1, with conda for virtual environment and python version 3.11.3.
 
 To install the requirements
+
 ```bash
 pip install -r requirements.txt
 ```
